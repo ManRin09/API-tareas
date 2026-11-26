@@ -491,4 +491,6 @@ secrets.json
 *.sqlite
 *.sqlite3
 *.db
+.pgdata/
+
 
